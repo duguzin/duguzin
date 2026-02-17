@@ -73,7 +73,7 @@ me.say_hi()
 
 <br><br>
 
-<img src="https://github.com/duguzin/duguzin/blob/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/duguzin/duguzin/output/snake.svg"/>
 
 </div>
 
